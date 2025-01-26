@@ -1,7 +1,7 @@
 fastapi==0.115.7
 uvicorn==0.34.0
 pydantic==2.10.6
-langchain==0.3.15
+langchain==0.2.0  # Downgraded to a version compatible with langchain-community
 langchain-groq==0.2.3
 langchain-openai==0.3.2
 langchain-community==0.2.3
